@@ -1,1 +1,3 @@
 # hello-world
+
+This is my first project cause Sharynne said so...
